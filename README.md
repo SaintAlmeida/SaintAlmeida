@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @SaintAlmeida
-- 👀 I’m interested in learning Programamming Languages
-- 🌱 I’m currently learning HTML5, Java and Python
+Estudante de Engenharia de Software. Buscando sempre aprendizado !
