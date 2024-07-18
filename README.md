@@ -1,6 +1,5 @@
-## Olá! EU sou o Saint Almeida !!
+## Olá!! Eu sou o Saint Almeida!
 
-- Estudante de Big Data e Inteligência Analítica.
-- Desenvolvendo Habilidades em Python
-- Aumentando as Skills em Data Science e Business Inteligence
-
+- Estudande de Big Data e Inteligência Analítica
+- Aprimorando o Desenvolvimento em Python para Análise de Dados
+- Entusiasta por aprendizado de novas tecnologias
